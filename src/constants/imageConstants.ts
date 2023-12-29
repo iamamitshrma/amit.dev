@@ -1,0 +1,7 @@
+export const profileImage = "https://firebasestorage.googleapis.com/v0/b/amit-dev-ca961.appspot.com/o/profileCollection%2FWhatsApp%20Image%202023-12-29%20at%2011.45.24%20PM.jpeg?alt=media&token=81fe13af-4d3d-41ed-a20f-76fec06417d5";
+export const htmlImage = "https://firebasestorage.googleapis.com/v0/b/amit-dev-ca961.appspot.com/o/profileCollection%2Fhtml.png?alt=media&token=35bbd026-3ebb-42e1-92ab-13766c1c783c";
+export const cssImage = "https://firebasestorage.googleapis.com/v0/b/amit-dev-ca961.appspot.com/o/profileCollection%2Fcss-3.png?alt=media&token=470934a5-977f-4334-8eae-d81027493281";
+export const jsImage = "https://firebasestorage.googleapis.com/v0/b/amit-dev-ca961.appspot.com/o/profileCollection%2Fjs.png?alt=media&token=09fc0eaa-dd4d-4ed2-aebb-17aaa7568963";
+export const tsImage = "https://firebasestorage.googleapis.com/v0/b/amit-dev-ca961.appspot.com/o/profileCollection%2Ftypescript.png?alt=media&token=8f96cfb9-6c38-44a0-bb56-c145cd027a41";
+export const reactImage = "https://firebasestorage.googleapis.com/v0/b/amit-dev-ca961.appspot.com/o/profileCollection%2Fatom.png?alt=media&token=25ef547f-ec58-4f26-be45-14312e8fd105";
+export const nextImage = "https://firebasestorage.googleapis.com/v0/b/amit-dev-ca961.appspot.com/o/profileCollection%2Fnextjs.512x512.png?alt=media&token=201936ee-07cd-43c4-a0b0-1556a4bd9e5c";

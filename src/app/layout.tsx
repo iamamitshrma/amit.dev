@@ -12,7 +12,7 @@ export default function RootLayout({ children }: {children: React.ReactNode}) {
     <>
       <html lang="en" suppressHydrationWarning>
         <head />
-        <body className='container mx-auto'>
+        <body>
           <ThemeProvider
             attribute="class"
             defaultTheme="system"
